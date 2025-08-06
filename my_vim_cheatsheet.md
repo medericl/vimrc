@@ -7,7 +7,6 @@ I recommend remapping:
 - Caps Lock to Ctrl in .bashrc         ---> setxkbmap -option ctrl:nocaps
 - <Esc> in the .vimrc (I choose <C-f>) ---> inoremap <C-f> <Esc>
 You can also remap CapsLock to <Esc> in .bashrc but it is more difficult to reach
-(j'ai besoing d'expliquer si c'est en visual mode ou normal mode)
 
 
 
